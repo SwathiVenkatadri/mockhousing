@@ -1,4 +1,4 @@
-like {
+{
 "SanJose": [
 {name: "River View",bedRooms: 2,bath:1,cost: 550,000},
 {name: "River View",bedRooms: 3,bath:2,cost: 660,000},
