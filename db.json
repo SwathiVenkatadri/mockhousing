@@ -1,5 +1,5 @@
 {
-"SanJose": [
+"san jose": [
 {"name": "River View","bedrooms": 2,"bath":1,"cost": 550000},
 {"name": "River View","bedrooms": 3,"bath":2,"cost": 660000},
 {"name": "River View","bedrooms": 3,"bath":1,"cost": 650000},
@@ -7,7 +7,7 @@
 {"name": "Park Tower","bedrooms": 3,"bath":2,"cost": 660000},
 {"name": "Park Tower","bedrooms": 3,"bath":1,"cost": 650000}
 ],
-"SanFransisco": [
+"san fransisco": [
 {"name": "Alcehemy","bedrooms": 1,"bath":1,"cost": 1550000},
 {"name": "Alcehemy","bedrooms": 2,"bath":1,"cost": 1800000},
 {"name": "Alcehemy","bedrooms": 2,"bath":2,"cost": 1950000},
@@ -24,7 +24,7 @@
 {"name": "Cresent","bedrooms": 3,"bath":2,"cost": 2050000},  
 {"name": "Cresent","bedrooms": 3,"bath":3,"cost": 2320000}
 ],
-"Seattle": [
+"seattle": [
 {"name": "Triangle","bedrooms": 1,"bath":1,"cost": 1350010},
 {"name": "Triangle","bedrooms": 2,"bath":1,"cost": 1500000},
 {"name": "Triangle","bedrooms": 2,"bath":2,"cost": 1750000},
@@ -41,7 +41,7 @@
 {"name": "Midtown Square","bedrooms": 3,"bath":2,"cost": 1050000},  
 {"name": "Midtown Square","bedrooms": 3,"bath":3,"cost": 1120000}
 ],
-"Chicago": [
+"chicago": [
 {"name": "Newcity","bedrooms": 1,"bath":1,"cost": 350010},
 {"name": "Newcity","bedrooms": 2,"bath":1,"cost": 800000},
 {"name": "Newcity","bedrooms": 2,"bath":2,"cost": 950000},
@@ -58,7 +58,7 @@
 {"name": "Gild","bedrooms": 3,"bath":2,"cost": 2050000},  
 {"name": "Gild","bedrooms": 3,"bath":3,"cost": 2320000}
 ],
-"Newyork": [
+"new york": [
 {"name": "Madison","bedrooms": 1,"bath":1,"cost": 2350010},
 {"name": "Madison","bedrooms": 2,"bath":1,"cost": 2800000},
 {"name": "Madison","bedrooms": 2,"bath":2,"cost": 2950000},
